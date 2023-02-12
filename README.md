@@ -5,12 +5,10 @@ as this issue is fixed I am going to remove this repository. After that you can 
 
 ## Installation
 
-Insert the following line in your package.json:
+Install it via npm:
 
 ````
-....
-"codejar": "julianpoemp/codejar-fixed-redo-undo"
-...
+npm install --save julianpoemp/codejar-fixed-redo-undo --legacy-peer-deps
 ````
 
 And call `npm install`.
